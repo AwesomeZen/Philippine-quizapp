@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin:0;
+  }
+  
+  header {
+    margin-top: 25px;
+    margin-bottom: 55px;
+    height:80px;
+    color: black
+  }
+  
+  header h1 {
+    line-height: 1;
+    top:24px;
+    text-align: center;
+  }
+  
+  
+  button {
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    float: right;
+    color:black;
+    background: lightgrey;
+    border: 0;
+    cursor: pointer;
+    margin-bottom: 0;
+    border-radius:3px;
+    padding: 10px 20px;
+  }
